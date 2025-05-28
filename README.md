@@ -1,2 +1,2 @@
-# Cyberbullying-Using-BERT
+# Cyberbullying-Using-BERT 
 Harnessing the power of modern NLP, this project presents a robust Cyberbullying Detection System using BERT (Bidirectional Encoder Representations from Transformers). Designed to identify and classify harmful language on social media platforms, the model is trained on annotated text data to recognize nuanced patterns of abuse. Leveraging Python, Hugging Face Transformers, TensorFlow/Keras, and preprocessing techniques, the solution aims to foster safer digital spaces through intelligent automation. Ideal for real-world moderation tools, this project blends deep learning precision with ethical tech impact
