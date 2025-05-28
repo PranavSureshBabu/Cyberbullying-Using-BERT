@@ -1,5 +1,2 @@
 # Cyberbullying-Using-BERT
-
-About Dataset
-
-This dataset contains annotated social media comments specifically curated for the analysis and detection of cyberbullying. The data is labeled across multiple categories including race, religion, gender, sexual orientation, and miscellaneous attributes. Each comment has been carefully reviewed and annotated by multiple annotators to ensure accuracy and reliability.
+Harnessing the power of modern NLP, this project presents a robust Cyberbullying Detection System using BERT (Bidirectional Encoder Representations from Transformers). Designed to identify and classify harmful language on social media platforms, the model is trained on annotated text data to recognize nuanced patterns of abuse. Leveraging Python, Hugging Face Transformers, TensorFlow/Keras, and preprocessing techniques, the solution aims to foster safer digital spaces through intelligent automation. Ideal for real-world moderation tools, this project blends deep learning precision with ethical tech impact
